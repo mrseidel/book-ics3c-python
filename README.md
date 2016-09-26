@@ -1,4 +1,4 @@
 My Awesome Book
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**_This book will be aimed at a beginner level for those learning p5.js and basic JavaScript_**
